@@ -20,11 +20,11 @@ Its hard to capture the aesthetic of Squigglebrower but here are some screen cap
 
 [alt text](https://i.imgur.com/TShpnra.png "screencap1.png")
 
-[alt text](https://i.imgur.com/TShpnra.png "screencap1.png")
+[alt text](https://i.imgur.com/Y00ysE5.png "screencap2.png")
 
-[alt text](https://i.imgur.com/TShpnra.png "screencap1.png")
+[alt text](http://i.imgur.com/yjT36Pt.jpg "screencap3.png")
 
-[alt text](https://i.imgur.com/TShpnra.png "screencap1.png")
+[alt text](http://i.imgur.com/XLZWOJn.jpg "screencap4.png")
 
 
 
