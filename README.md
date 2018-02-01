@@ -18,13 +18,18 @@ manifest.json       -- a description of the extension and the means of communica
 ## See it in action
 Its hard to capture the aesthetic of Squigglebrower but here are some screen caps of it working...
 
-[alt text](https://i.imgur.com/TShpnra.png "screencap1.png")
+[screencap 1](https://i.imgur.com/TShpnra.png "screencap1.png")
 
-[alt text](https://i.imgur.com/Y00ysE5.png "screencap2.png")
+[screencap 2](https://i.imgur.com/Y00ysE5.png "screencap2.png")
 
-[alt text](http://i.imgur.com/yjT36Pt.jpg "screencap3.png")
+[screencap 3](http://i.imgur.com/yjT36Pt.jpg "screencap3.png")
 
-[alt text](http://i.imgur.com/XLZWOJn.jpg "screencap4.png")
+[screencap 4](http://i.imgur.com/XLZWOJn.jpg "screencap4.png")
+
+**here is a picture of my notes, when I first got the idea**
+[sketch ](https://i.imgur.com/Se8w27U.jpg "screencap4.png")
+
+
 
 
 
