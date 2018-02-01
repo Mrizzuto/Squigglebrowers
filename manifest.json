@@ -1,0 +1,23 @@
+{
+	"name": "squigglebrowser",
+	"description": "Makes the internet irritating and hard to use :).",
+	"version": "1.0",
+	"homepage_url": "",
+	"browser_action": {
+		"default_title": "squigglebrowser",
+		"default_icon": "icon.png"
+	},
+	"permissions": [
+		"tabs",
+		"<all_urls>"
+	],
+	"background": {
+		"scripts": [ "background.js" ],
+		"persistent": true
+	},
+	"content_scripts": [{
+		"matches": [ "<all_urls>" ],
+		"js": [ "jquery-3.2.1.min.js" ]
+	}],
+	"manifest_version": 1
+}
